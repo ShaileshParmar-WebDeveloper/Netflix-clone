@@ -1,3 +1,19 @@
+## Working Link
+
+https://netflix-clone-b0000.web.app/
+
+# Note
+
+In 'src' folder you need to add one file with name of 'apiKey.js' with below details.
+
+### get you API from here:- https://www.themoviedb.org/
+
+```javascrip
+const API_KEY = '<YOUR API KEY FROM TMDB>';
+
+export default API_KEY;
+```
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
